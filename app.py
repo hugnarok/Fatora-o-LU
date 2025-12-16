@@ -51,7 +51,7 @@ with st.sidebar:
     """)
     
     st.markdown("---")
-    st.markdown("**Desenvolvido para:** Trabalho Final AED2 - Métodos Numéricos")
+    st.markdown("**Desenvolvido para:** Trabalho Final - Métodos Numéricos")
 
 # Seção 1: Entrada de Dados
 st.header("📝 Entrada de Dados")
@@ -365,7 +365,7 @@ if solve_button:
 st.markdown("---")
 st.markdown(
     "<div style='text-align: center; color: gray;'>"
-    "Métodos Numéricos - Decomposição LU | Trabalho Final AED2"
+    "Métodos Numéricos - Decomposição LU | Trabalho Final"
     "</div>",
     unsafe_allow_html=True
 )

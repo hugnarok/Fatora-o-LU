@@ -142,7 +142,7 @@ Interface web Streamlit com:
 
 ## 📝 Licença
 
-Este projeto foi desenvolvido para fins educacionais como parte do Trabalho Final da disciplina de Análise e Estrutura de Dados 2 (AED2).
+Este projeto foi desenvolvido para fins educacionais como parte do Trabalho Final da disciplina de Métodos Numéricos.
 
 ## 👨‍💻 Autores
 
@@ -199,4 +199,4 @@ Este projeto foi desenvolvido para fins educacionais como parte do Trabalho Fina
 
 ---
 
-**Desenvolvido para Trabalho Final AED2 - Métodos Numéricos**
+**Desenvolvido para Trabalho Final - Métodos Numéricos**
