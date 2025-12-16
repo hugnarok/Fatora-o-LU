@@ -144,7 +144,59 @@ Interface web Streamlit com:
 
 Este projeto foi desenvolvido para fins educacionais como parte do Trabalho Final da disciplina de Análise e Estrutura de Dados 2 (AED2).
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
-Desenvolvido para Trabalho Final AED2 - Métodos Numéricos
+<div align="center">
 
+<br><br>
+   <i>Fernando Horita Siratuti - Undergraduate - 4th Semester, Computer Engineering @ CEFET-MG</i>
+<br><br>
+
+[![Gmail][gmail-badge]][gmail-autor2]
+[![Linkedin][linkedin-badge]][linkedin-autor2]
+[![GitHub][github-badge]][github-autor2]
+[![Instagram][instagram-badge]][instagram-autor2]
+
+<br><br>
+   <i>Hugo Henrique Marques - Undergraduate - 4th Semester, Computer Engineering @ CEFET-MG</i>
+<br><br>
+
+[![Gmail][gmail-badge]][gmail-autor3]
+[![Linkedin][linkedin-badge]][linkedin-autor3]
+[![GitHub][github-badge]][github-autor3]
+[![Instagram][instagram-badge]][instagram-autor3]
+
+<br><br>
+   <i>Vinicius Ramalho de Oliveira - Undergraduate - 4th Semester, Computer Engineering @ CEFET-MG</i>
+<br><br>
+
+[![Gmail][gmail-badge]][gmail-autor5]
+[![Linkedin][linkedin-badge]][linkedin-autor5]
+[![GitHub][github-badge]][github-autor5]
+[![Instagram][instagram-badge]][instagram-autor5]
+
+</div>
+
+[gmail-badge]: https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white
+[linkedin-badge]: https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white
+[github-badge]: https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white
+[instagram-badge]: https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white
+
+[gmail-autor2]: mailto:siratutifernando@gmail.com
+[linkedin-autor2]: https://www.linkedin.com/in/fernando-siratuti-503ba8301/
+[github-autor2]: https://github.com/fernando-horita-siratuti
+[instagram-autor2]: https://www.instagram.com/siratuti_/
+
+[gmail-autor3]: mailto:hugohmarques4@gmail.com
+[linkedin-autor3]: https://www.linkedin.com/in/hugo-h-marques-980629216/
+[github-autor3]: https://github.com/hugnarok
+[instagram-autor3]: https://www.instagram.com/hugomarques_02/
+
+[gmail-autor5]: mailto:ramalhooliveiravini@gmail.com
+[linkedin-autor5]: https://www.linkedin.com/in/vin%C3%ADcius-ramalho-de-oliveira-4464b8327/
+[github-autor5]: https://github.com/ViniciusRO22
+[instagram-autor5]: https://www.instagram.com/_vinicius.ro_/
+
+---
+
+**Desenvolvido para Trabalho Final AED2 - Métodos Numéricos**
